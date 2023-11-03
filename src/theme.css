@@ -1,0 +1,12 @@
+:root {
+  --background-primary: #151515;
+  --background-secondary: #212121;
+  --on-background-primary: #ddd;
+  --on-background-secondary: #ddd;
+  --primary: #b6efff;
+  --on-primary: #151515;
+  --secondary: #cbcbcb;
+  --on-secondary: #151515;
+  --tertiary: #999;
+  --on-tertiary: #222;
+}
